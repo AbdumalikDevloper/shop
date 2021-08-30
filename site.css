@@ -534,6 +534,7 @@ body{
     }
     .image-container{
         padding: 1rem;
+        text-align: center;
         margin-top: 1rem;
     }
     #cart-title{
@@ -616,30 +617,30 @@ body{
         padding: 0;
     }
     #detail-title{
-        font-size: 1.2rem;
+        font-size: 2.2rem;
     }
     #detail-price{
         margin: 0;
-        font-size: 1.2rem;
+        font-size: 2.2rem;
     }
     #you-save{
-        font-size: 0.8rem;
+        font-size: 1.8rem;
     }
     .btn1 a{
-        font-size: 16px;
+        font-size: 26px;
     }
     #carts{
-        font-size: 18px;
+        font-size: 28px;
     }
     #buy{
-        font-size: 18px;
+        font-size: 28px;
     }
     #cart-title{
-        font-size: 1.5rem;
+        font-size: 2.5rem;
         padding-top: 4rem;
     }
     #list-img{
-        height: 5rem;
+        height: rem;
     }
     .cart-column h3{
         font-size: 15px;
@@ -791,6 +792,9 @@ body{
         display: flex;
         align-content: center;
         justify-content: space-between;
+    }
+    .image-container{
+        text-align: center;
     }
     .footer{
         padding: 2rem 1rem;
@@ -979,6 +983,9 @@ body{
         flex-wrap: wrap;
         justify-content: center;
     }
+    .image-container{
+        text-align: center;
+    }
     .footer{
         padding: 2rem 1rem;
     }
@@ -997,7 +1004,7 @@ body{
         width: 9rem;
     }
     .items-detail{
-        margin-top: 7rem;
+        margin-top: 10rem;
         padding: 0;
     }
     #detail-title{
